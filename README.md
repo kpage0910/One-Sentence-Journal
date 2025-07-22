@@ -1,4 +1,4 @@
-# 📝 One-Sentence Journal
+# 📝 One Sentence Journal
 
 A minimalist journaling tool that helps you reflect on your day — one sentence at a time.
 
