@@ -1,0 +1,29 @@
+/*style.css*/
+
+body {
+  font-family: sans-serif;
+  max-width: 500px;
+  margin: 200px auto;
+  text-align: center
+}
+
+input {
+  width: 80%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 30px;
+  margin-top: 10px;
+  background: #77bdff;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
