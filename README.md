@@ -31,4 +31,6 @@ No clutter. No distractions. Just you and your thoughts — one line at a time.
 
 ## 🚀 Try It Online
 
+https://one-sentence-journal-kennedy-pages-projects-d1f90099.vercel.app/
+
 
